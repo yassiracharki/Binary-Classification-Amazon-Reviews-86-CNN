@@ -12,3 +12,5 @@
 8. Model Preparation and Training
 9. Visualizing and Evaluating the Results
 10. Saving the model
+
+Buy Me a Coffee : https://buymeacoffee.com/yassirachag
